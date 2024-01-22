@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1705952246433.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1706039114089.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-22a610b3-2a3b-4aa3-9701-ed2adfbe84e0" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Contact"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/22a610b3-2a3b-4aa3-9701-ed2adfbe84e0-1705952246433.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/22a610b3-2a3b-4aa3-9701-ed2adfbe84e0-1706039114089.css" />\
       <div class="freeLayout">\
       <div id="s-Image_1" class="image firer ie-background commentable non-processed" customid="icon-e-mail-2898669_1280"   datasizewidth="268.0px" datasizeheight="237.0px" dataX="549.0" dataY="104.0"   alt="image">\
         <div class="borderLayer">\

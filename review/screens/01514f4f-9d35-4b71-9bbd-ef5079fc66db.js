@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1705952246433.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1706039114089.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-01514f4f-9d35-4b71-9bbd-ef5079fc66db" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="To Do"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/01514f4f-9d35-4b71-9bbd-ef5079fc66db-1705952246433.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/01514f4f-9d35-4b71-9bbd-ef5079fc66db-1706039114089.css" />\
       <div class="freeLayout">\
       <div id="s-Image_3" class="image firer ie-background commentable non-processed" customid="people-821624_960_720"   datasizewidth="1366.0px" datasizeheight="768.0px" dataX="0.0" dataY="0.0"   alt="image">\
         <div class="borderLayer">\
@@ -215,6 +215,77 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         </div>\
       </div>\
 \
+\
+      <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="Search input" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Input_1" class="text firer commentable non-processed" customid="Input"  datasizewidth="300.0px" datasizeheight="45.0px" dataX="1066.0" dataY="0.0" ><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Search"/></div></div>  </div></div></div>\
+        <div id="s-Path_1" class="path firer commentable non-processed" customid="search icon"   datasizewidth="13.0px" datasizeheight="13.0px" dataX="1078.0" dataY="15.0"  >\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+            	<?xml version="1.0" encoding="UTF-8"?>\
+            	<svg xmlns="http://www.w3.org/2000/svg" width="13.0" height="13.0" viewBox="1078.0000000000002 15.000000000000028 13.0 13.0" preserveAspectRatio="none">\
+            	  <g>\
+            	    <defs>\
+            	      <path id="s-Path_1-01514" d="M1086.8530000887422 20.316999937358684 C1086.8530000887422 22.267000198364286 1085.2670001983645 23.85299943622793 1083.3169999373588 23.85299943622793 C1081.3670000026102 23.85299943622793 1079.7680000756918 22.267000198364286 1079.7680000756918 20.316999937358684 C1079.7680000756918 18.354000292326305 1081.3539999660695 16.76799974943465 1083.3169999373588 16.76799974943465 C1085.2670001983645 16.76799974943465 1086.8530000887422 18.366999676353082 1086.8530000887422 20.316999937358684 L1086.8530000887422 20.316999937358684 Z M1087.697999853837 23.31999989559779 C1088.309000266226 22.448999404907255 1088.6339998747176 21.383000323646975 1088.6339998747176 20.316999937358684 C1088.6339998747176 17.3790001618235 1086.254999712894 15.000000000000028 1083.3169999373588 15.000000000000028 C1080.3789999986952 15.000000000000028 1078.0000000000002 17.3790001618235 1078.0000000000002 20.316999937358684 C1078.0000000000002 23.255000365407874 1080.3789999986952 25.63399987471734 1083.3169999373588 25.63399987471734 C1084.3830003236471 25.63399987471734 1085.4490000574215 25.29600022968496 1086.3329999321388 24.697999853836894 L1089.634999425788 28.00000000000003 L1091.0000000000002 26.634999425787704 L1087.697999853837 23.31999989559779 Z "></path>\
+            	    </defs>\
+            	    <g style="mix-blend-mode:normal">\
+            	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_1-01514" fill="#A1A1A1" fill-opacity="1.0"></use>\
+            	    </g>\
+            	  </g>\
+            	</svg>\
+\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="H3"   datasizewidth="180.5px" datasizeheight="27.0px" dataX="233.6" dataY="175.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_10_0">Caled&#039;s Pizzeria</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_11" class="richtext autofit firer ie-background commentable non-processed" customid="H3"   datasizewidth="140.0px" datasizeheight="27.0px" dataX="916.2" dataY="337.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_11_0">Taniti beach</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_12" class="richtext autofit firer ie-background commentable non-processed" customid="H3"   datasizewidth="375.1px" datasizeheight="27.0px" dataX="136.3" dataY="493.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_12_0">Omar&#039;s Jungle Zipline Adventure</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       </div>\
 \
       </div>\
