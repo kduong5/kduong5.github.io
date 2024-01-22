@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1705625627701.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1705952246433.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-01514f4f-9d35-4b71-9bbd-ef5079fc66db" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="To Do"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/01514f4f-9d35-4b71-9bbd-ef5079fc66db-1705625627701.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/01514f4f-9d35-4b71-9bbd-ef5079fc66db-1705952246433.css" />\
       <div class="freeLayout">\
       <div id="s-Image_3" class="image firer ie-background commentable non-processed" customid="people-821624_960_720"   datasizewidth="1366.0px" datasizeheight="768.0px" dataX="0.0" dataY="0.0"   alt="image">\
         <div class="borderLayer">\
@@ -188,6 +188,33 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
           </div>\
         </div>\
       </div>\
+\
+      <div id="s-Image_4" class="image firer ie-background commentable non-processed" customid="x40lawtj"   datasizewidth="247.0px" datasizeheight="130.0px" dataX="196.1" dataY="211.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/35d5023a-5e7b-45cc-a0a0-61b313a0fd2f.bmp" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_5" class="image firer ie-background commentable non-processed" customid="198d0c35"   datasizewidth="277.0px" datasizeheight="144.0px" dataX="843.0" dataY="364.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/e49c1b0d-9844-48d3-a276-ba37614b5348.bmp" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_6" class="image firer ie-background commentable non-processed" customid="u79pq83r"   datasizewidth="250.0px" datasizeheight="138.0px" dataX="194.6" dataY="520.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/40a267cf-708f-49dc-ad43-00b376fb5465.bmp" />\
+        	</div>\
+        </div>\
+      </div>\
+\
       </div>\
 \
       </div>\

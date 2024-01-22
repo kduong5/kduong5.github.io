@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1705625627701.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1705952246433.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-7790122a-39da-45a3-b81d-0e11de59401d" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Accomodations"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/7790122a-39da-45a3-b81d-0e11de59401d-1705625627701.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/7790122a-39da-45a3-b81d-0e11de59401d-1705952246433.css" />\
       <div class="freeLayout">\
       <div id="s-Image_1" class="image firer ie-background commentable non-processed" customid="istockphoto-1449212413-1024x1024"   datasizewidth="1366.0px" datasizeheight="768.0px" dataX="0.0" dataY="0.0"   alt="image">\
         <div class="borderLayer">\
@@ -769,7 +769,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         </div>\
       </div>\
 \
-      <div id="s-Paragraph_8" class="richtext autofit firer ie-background commentable non-processed" customid="H3"   datasizewidth="129.4px" datasizeheight="27.0px" dataX="223.3" dataY="605.0" >\
+      <div id="s-Paragraph_8" class="richtext autofit firer ie-background commentable non-processed" customid="H3"   datasizewidth="182.7px" datasizeheight="27.0px" dataX="196.6" dataY="605.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -778,13 +778,13 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_8_0">House Type</span>\
+                <span id="rtr-s-Paragraph_8_0">Transport Type 1</span>\
               </div>\
             </div>\
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_9" class="richtext autofit firer ie-background commentable non-processed" customid="H3"   datasizewidth="129.4px" datasizeheight="27.0px" dataX="634.3" dataY="605.0" >\
+      <div id="s-Paragraph_9" class="richtext autofit firer ie-background commentable non-processed" customid="H3"   datasizewidth="182.7px" datasizeheight="27.0px" dataX="614.0" dataY="605.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -793,13 +793,13 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_9_0">House Type</span>\
+                <span id="rtr-s-Paragraph_9_0">Transport Type 2</span>\
               </div>\
             </div>\
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="H3"   datasizewidth="129.4px" datasizeheight="27.0px" dataX="1051.3" dataY="605.0" >\
+      <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="H3"   datasizewidth="182.7px" datasizeheight="27.0px" dataX="1024.6" dataY="605.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -808,7 +808,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_10_0">House Type</span>\
+                <span id="rtr-s-Paragraph_10_0">Transport Type 3</span>\
               </div>\
             </div>\
           </div>\
@@ -897,6 +897,33 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
 \
             </div>\
           </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_4" class="image firer ie-background commentable non-processed" customid="9xhxv4e8"   datasizewidth="158.6px" datasizeheight="102.0px" dataX="220.7" dataY="503.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/c0b7791a-f6ca-4705-9bc8-2e642bf505fa.bmp" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_5" class="image firer ie-background commentable non-processed" customid="2ueq6w6y"   datasizewidth="151.0px" datasizeheight="106.0px" dataX="638.9" dataY="499.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/7749bd26-c274-4965-b08c-658dc39f9238.bmp" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_6" class="image firer ie-background commentable non-processed" customid="7q85bna2"   datasizewidth="151.0px" datasizeheight="103.0px" dataX="1040.5" dataY="500.5"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/ba9a279a-bf77-4055-932b-ed5992b7bc35.bmp" />\
+        	</div>\
         </div>\
       </div>\
 \
